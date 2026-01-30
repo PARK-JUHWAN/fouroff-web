@@ -1034,7 +1034,7 @@ body {
 
 .fair-distribution-section {
   background: linear-gradient(135deg, var(--dark-gradient-start) 0%, var(--primary-color) 100%);
-  color: white;
+  color: white !important;
 }
 
 .fair-card {
