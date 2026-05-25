@@ -184,7 +184,7 @@ body {
 }
 
 .phone-mockup-small {
-  max-width: 320px;
+  max-width: 280px;
   margin: 0 auto;
   background: #1a1a1a;
   border-radius: 36px;
@@ -1279,22 +1279,4 @@ body {
 .slick-prev:before, .slick-next:before {
   color: var(--primary-color);
   font-size: 24px;
-}
-
-.landscape-screenshot {
-  max-width: 480px;
-  margin: 0 auto;
-  background: #1a1a1a;
-  border-radius: 20px;
-  padding: 8px;
-  box-shadow: 0 20px 40px rgba(0,0,0,0.15);
-}
-
-.landscape-screenshot img {
-  width: 100%;
-  border-radius: 14px;
-}
-
-.guide-step-image.landscape {
-  max-width: 360px;
 }
