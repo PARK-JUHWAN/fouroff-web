@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://park-juhwan.github.io/fouroff-web/sitemap.xml
+
+Sitemap: https://fouroff.kr/sitemap.xml
